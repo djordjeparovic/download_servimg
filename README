@@ -1,0 +1,10 @@
+servimg_download downloads all images from specific www.servimg.com user. 
+Files will be downloaded in current folder. 
+
+Usage: 
+For example, http://www.servimg.com/image_preview.php?i=666&u=12345678
+is address of some image on servimg.com. Then user_id is 12345678. 
+
+./servimg_download.py 12345678
+
+will download all images from that user to Your current folder. 
