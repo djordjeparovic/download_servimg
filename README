@@ -7,4 +7,4 @@ is address of some image on servimg.com. Then user_id is 12345678.
 
 ./servimg_download.py 12345678
 
-will download all images from that user to Your current folder. 
+will download all images from that user to your current folder. 
